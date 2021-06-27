@@ -26,4 +26,6 @@ This website is meant to be a showcase of my evolution, almost like an extension
 {% include about/timeline.html %}
 </div>
 
-![Resume](https://www.github.com/rajgark.github.io/_data/RajGark_CV.pdf "Resume PDF")
+<div class="row">
+{% include _data/index.html %}
+</div>
