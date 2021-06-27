@@ -8,11 +8,11 @@
 
 - name: Igor Pro
   percentage: 70
-  color: teal
+  color: danger
 
 - name: NI LabVIEW
   percentage: 60
-  color: purple
+  color: ffbb33
 
 - name: AutoDesk AutoCAD & Fusion360
   percentage: 70
