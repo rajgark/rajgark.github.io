@@ -16,4 +16,8 @@
 
 - name: AutoDesk AutoCAD & Fusion360
   percentage: 70
-  color: muted
+  color: warning
+
+- name: Tableau & MS Office Suite
+  percentage: 90
+  color: success
