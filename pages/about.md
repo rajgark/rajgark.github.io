@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 weight: 3
 ---
@@ -14,7 +14,7 @@ weight: 3
 </div>
 <br>
 <br>
-Hi I am **{{ site.author.name }}** :wave:,<br>
+Hi :wave:,<br>
 <br>
 I came to the United States in 4th grade from Pune, India. Growing up, I'd always ask my mom, who was a physics teacher, "why does __ do that or why does ___ do this?" and I'd always get some sort of intuitive explanation behind whatever is happening. Because of my curiosity, I've sought to find the fundamental answers for why our world and everything we know is the way it is, through pursuing a B.Sc in Physics. Throughout my education there has been an emphasis on scientific exploration of data, whether it's data we've collected while in the laboratory doing experiments or data given to us by our professors. The end goal was always the same: apply the theoretical understanding of underlying phenomena to find insights which either prove/disprove our initial predictions and to use this for actionable data guided decisions.
 
