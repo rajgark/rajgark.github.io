@@ -25,3 +25,9 @@ This website is meant to be a showcase of my evolution, almost like an extension
 <div class="row">
 {% include about/timeline.html %}
 </div>
+
+div class="row">
+  <a href="./_data/RajGark_CV.pdf" title="click to open in pdf viewer" target="_blank">
+    <button class="fill col s8 offset-s2 m4 offset-m4">open as pdf</button>
+  </a>
+</div>
