@@ -27,9 +27,9 @@ This website is meant to be a showcase of my evolution, almost like an extension
 </div>
 
 <div class="row resume-wrapper">
-  <a href="./assets/RajGark_CV.pdf" title="click to open in pdf viewer" target="_blank">
-    <img src="./assets/resume1.pdf" alt="" class="responsive-img resume-img z-depth-2 hoverable">
-    <img src="./assets/resume2.pdf" alt="" class="responsive-img resume-img z-depth-2 hoverable">
+  <a href="/assets/RajGark_CV.pdf" title="click to open in pdf viewer" target="_blank">
+    <img src="/assets/resume1.pdf" alt="" class="responsive-img resume-img z-depth-2 hoverable">
+    <img src="/assets/resume2.pdf" alt="" class="responsive-img resume-img z-depth-2 hoverable">
     <button class="fill col s8 offset-s2 m4 offset-m4">open as pdf</button>
   </a>
 </div>
