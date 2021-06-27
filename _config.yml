@@ -1,8 +1,8 @@
 ### Site Settings ###
 title               : Raj Garkhedkar
 description         : >-
-                      Aspiring trophy husband 
-                      I turn caffeine into models
+                      Aspiring trophy husband.
+                      I turn caffeine into models.
                       Currently in the SciML space doing simulations & training models for sparse identification of nonlinear dynamical systems through data driven model discovery.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : rajgark/rajgark.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
@@ -37,7 +37,7 @@ author:
   linkedin          : rajgark
 #  medium            : your_username
 # soundcloud        : your_username
-# spotify           : your_username
+  spotify           : b8sljblo3n7k41fhno42tv14v
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
