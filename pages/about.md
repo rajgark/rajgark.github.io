@@ -26,10 +26,4 @@ This website is meant to be a showcase of my evolution, almost like an extension
 {% include about/timeline.html %}
 </div>
 
-div class="row resume-wrapper">
-  <a href="./_data//RajGark_CV.pdf" title="click to open in pdf viewer" target="_blank">
-    <img src="https://github.com/rajgark/oldpage/blob/master/assets/images/website_resume-1-1.png" alt="" class="responsive-img resume-img z-depth-2 hoverable">
-    <img src="https://github.com/rajgark/oldpage/blob/master/assets/images/website_resume-2-1.png" alt="" class="responsive-img resume-img z-depth-2 hoverable">
-    <button class="fill col s8 offset-s2 m4 offset-m4">open as pdf</button>
-  </a>
-</div>
+[Resume](https://github.com/rajgark/rajgark.github.io/blob/main/_data/RajGark_CV.pdf)
