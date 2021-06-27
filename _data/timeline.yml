@@ -1,17 +1,22 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Machine Learning Engineer Intern
+  from: May 2021
+  to: August 2021
+  description: Sparse identification of nonlinear dynamics (SINDy) and data driven model discovery
+               for scientific machine learning (SciML) applications. Building neural networks to predict
+               evolving systems. Dimensionality reductions/transforms, nonlinear dynamics & control theory implementation.
+               Used Python & Julia for signal processing & noise analysis.Algorithm development through the mathematical construct behind neural networks to tailor activation
+               functions, loss functions, and network layers through modeling ordinary/partial differential equations, linear algebra, abstract algebra, & data structures
 
-- title: Software Engineer, Google, UK
+- title: Data Engineering Intern
+  from: Summer 2019
+  to: and Summer 2020
+  description: Used Python to create web scraper script, to capture daily NGL flows from various pipelines throughout the
+               country at their receipt/delivery points. The web-scraped data is automatically appended to our databases
+               thus fully automating the data collection behind consulting projects.Wrote an article, published in Enkon’s monthly newsletter, on the Current State of Liquefied Natural Gas
+               where I examined the headwinds and drivers that guided the first and second wave of LNG Projects and
+               global exports, also examined the global supply and demand.Completed with over 4000 lines of Python code with my own helper functions to ease analytics.
+               
+- title: Student, Illinois Wesleyan Univ
   from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  to: December 2021
+  description: B.Sc majoring in Physics & Data Science.
