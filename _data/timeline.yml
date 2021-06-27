@@ -1,4 +1,5 @@
 - title: Machine Learning Engineer Intern
+  location: COLSA Corporation, Huntsville AL
   from: May 2021
   to: August 2021
   description: Sparse identification of nonlinear dynamics (SINDy) and data driven model discovery
@@ -8,6 +9,7 @@
                functions, loss functions, and network layers through modeling ordinary/partial differential equations, linear algebra, abstract algebra, & data structures
 
 - title: Data Engineering Intern
+  location: Enkon Energy Advisors, Houston TX
   from: Summer 2019
   to: and Summer 2020
   description: Used Python to create web scraper script, to capture daily NGL flows from various pipelines throughout the
@@ -15,8 +17,9 @@
                thus fully automating the data collection behind consulting projects.Wrote an article, published in Enkon’s monthly newsletter, on the Current State of Liquefied Natural Gas
                where I examined the headwinds and drivers that guided the first and second wave of LNG Projects and
                global exports, also examined the global supply and demand.Completed with over 4000 lines of Python code with my own helper functions to ease analytics.
-               
+
 - title: Student, Illinois Wesleyan Univ
+  location: Bloomington, IL
   from: 2018
   to: December 2021
   description: B.Sc majoring in Physics & Data Science.
