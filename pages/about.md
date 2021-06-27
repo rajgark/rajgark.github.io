@@ -25,7 +25,3 @@ This website is meant to be a showcase of my evolution, almost like an extension
 <div class="row">
 {% include about/timeline.html %}
 </div>
-
-<div class="row">
-{% include _data/index.html %}
-</div>
