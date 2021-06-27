@@ -7,6 +7,12 @@ weight: 3
 
 # **About Me**
 
+<div class="row resume-wrapper">
+  <a href="/assets/RajGark_CV.pdf" title="click to open in pdf viewer" target="_blank">
+    <button class="fill col s8 offset-s2 m4 offset-m4">Check out my resume!</button>
+  </a>
+</div>
+
 Hi I am **{{ site.author.name }}** :wave:,<br>
 <br>
 I came to the United States in 4th grade from Pune, India. Growing up, I'd always ask my mom, who was a physics teacher, "why does __ do that or why does ___ do this?" and I'd always get some sort of intuitive explanation behind whatever is happening. Because of my curiosity, I've sought to find the fundamental answers for why our world and everything we know is the way it is, through pursuing a B.Sc in Physics. Throughout my education there has been an emphasis on scientific exploration of data, whether it's data we've collected while in the laboratory doing experiments or data given to us by our professors. The end goal was always the same: apply the theoretical understanding of underlying phenomena to find insights which either prove/disprove our initial predictions and to use this for actionable data guided decisions.
@@ -28,8 +34,6 @@ This website is meant to be a showcase of my evolution, almost like an extension
 
 <div class="row resume-wrapper">
   <a href="/assets/RajGark_CV.pdf" title="click to open in pdf viewer" target="_blank">
-    <img src="/assets/resume1.pdf" alt="" class="responsive-img resume-img z-depth-2 hoverable">
-    <img src="/assets/resume2.pdf" alt="" class="responsive-img resume-img z-depth-2 hoverable">
     <button class="fill col s8 offset-s2 m4 offset-m4">open as pdf</button>
   </a>
 </div>
