@@ -12,8 +12,8 @@
 
 - name: NI LabVIEW
   percentage: 60
-  color: ffbb33
+  color: dark
 
 - name: AutoDesk AutoCAD & Fusion360
   percentage: 70
-  color: pink
+  color: muted
