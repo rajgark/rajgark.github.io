@@ -4,6 +4,7 @@ tags: [Photography, Luminar 4 Post-Processing]
 style: fill
 color: info
 description: Photos from Constitution Trail in Bloomington, Illinois
+usemathjax: true
 ---
 
 
