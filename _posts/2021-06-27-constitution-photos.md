@@ -7,6 +7,11 @@ description: Photos I've taken from places I've been.
 mathjax: true
 ---
 
+##### Gear
+1. Sony $\alpha$6000 (ILCE-6000)
+1. 55-210mm lens (usually) w/ UV filter
+1. 15-50mm lens (occasionally) w/ UV filter
+
 
 {% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLUmaMACZO-nddguaj4w_bj_vF6M34ctUfVBDqEXJOxnNfJhfUMysuLapNCubQVB7qRArTFX5yICD74mjOIMHn7mR5n6DHU5sbRo1nTmPKsjrph1NKNok07rRv5PVYBxcbvOOuMnZFGipIrW8KvEjLJT=w1314-h876-no?authuser=0" caption="Lone Warrior | 210 mm,  $f$/ 6.3,  1/400,  ILCE-6000, AP" %}
 
