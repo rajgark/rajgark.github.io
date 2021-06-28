@@ -51,11 +51,6 @@
           {%- assign url = html_page.url | relative_url -%}
         {%- endif -%}
 
-        {% if page.usemathjax %}
-        <script type="text/javascript" async
-        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-        </script>
-        {% end if %}
 
         <a class="nav-item nav-link {{ active_status }}" href="{{ url }}">{{ html_page.title }}</a>
 
