@@ -96,3 +96,7 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
+
+markdown: kramdown
+kramdown:
+    math_engine: katex
