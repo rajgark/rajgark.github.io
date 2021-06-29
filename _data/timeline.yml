@@ -5,8 +5,15 @@
   description: Sparse identification of nonlinear dynamics (SINDy) and data driven model discovery
                for scientific machine learning (SciML) applications. Building neural networks to predict
                evolving systems. Dimensionality reductions/transforms, nonlinear dynamics & control theory implementation.
-               Used Python & Julia for signal processing & noise analysis.Algorithm development through the mathematical construct behind neural networks to tailor activation
+               Used Python & Julia for signal processing & noise analysis. Algorithm development through the mathematical construct behind neural networks to tailor activation
                functions, loss functions, and network layers through modeling ordinary/partial differential equations, linear algebra, abstract algebra, & data structures
+
+- title: Roboticist @ Illinois Wesleyan Univ | Bloomington, IL
+  location: Bloomington, IL
+  from: August 2020
+  to: April 2021
+  description: Designing and building a robot modeled after the Boston Dynamics dog, controlled via a PlayStation controller. All CAD and programming work done independently by my team.
+               This work was presented at a research conference in April.
 
 - title: Data Engineering Intern @ Enkon Energy Advisors | Houston, TX
   location: Enkon Energy Advisors, Houston TX
