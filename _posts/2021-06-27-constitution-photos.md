@@ -3,7 +3,7 @@ title: Photo Portfolio
 tags: [Photography, Luminar 4 Post-Processing]
 style: fill
 color: info
-description: Photos I've taken from places I've been.
+description: Photos I've taken from places I've been. Updating as I get time. 
 comments: true
 mathjax: true
 ---
