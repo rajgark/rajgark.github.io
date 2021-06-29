@@ -7,3 +7,4 @@ comments: true
 description: A dive into modern CMOS architecture
 mathjax: true
 ---
+<br>
