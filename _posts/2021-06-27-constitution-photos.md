@@ -13,6 +13,7 @@ mathjax: true
 1. 15-50mm lens (occasionally) w/ UV filter
 1. Luminar 4 & Aurora HDR (screw Adobe & their SaaS business model, but lowkey Lightroom is the :goat:)
 <br>
+<br>
 #### Journey
 There's pretty much been two things that have been a constant in my life since I was a toddler to now: cars & cameras. My father was 'into' photography, but not in the traditional sense when you think of photography, but rather to take pictures of anything and everything; a way to journal his life and the people around him. I'd always mess around with the film cameras we used to have in India... and usually get a beating for it because 'messing around' to me meant taking it apart...
 <br>
