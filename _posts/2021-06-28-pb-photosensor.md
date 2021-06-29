@@ -1,5 +1,5 @@
 ---
-title: The Physics Behind: Photosensors
+title: The Physics Behind Photosensors
 tags: [Physics Behind, Photography, Optics/Photonics]
 style: fill
 color: secondary
