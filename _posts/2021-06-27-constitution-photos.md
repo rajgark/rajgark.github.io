@@ -7,6 +7,7 @@ description: Photos I've taken from places I've been. Updating as I get time.
 comments: true
 mathjax: true
 ---
+
 <br>
 #### Gear & Post-processing
 1. Sony $\alpha$6000 (ILCE-6000)
