@@ -16,13 +16,13 @@ The building block of most imaging systems, this is the foundational pillar of c
 <br>
 Based on this, intuitively we know that absorption of light depends entirely on the _exposure time_ of the diodes to the light source. Since this generates a current due to conversion of light to an electrochemical potential leading to a direct current, there's a density equation at hand here:
 $$
-\begin{equation}
+\begin{aligned}
 \mathscr{F} = \frac{\sigma V}{L}
-\end{equation}
+\end{aligned}
 $$
 
 $$
-\begin{equation}
-\sigma = q(n\mu_n + p\mu_p)$$
-\end{equation}
+\begin{aligned}
+\sigma = q(n\mu_n + p\mu_p)
+\end{aligned}
 $$
