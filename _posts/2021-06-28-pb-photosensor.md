@@ -19,7 +19,7 @@ Based on this, intuitively we know that absorption of light depends entirely on 
 $$
 \begin{aligned}
 \mathscr{F} = \frac{\sigma V}{L}
-and
+$$ where $$
 \sigma = q(n\mu_n + p\mu_p)
 \end{aligned}
 $$
