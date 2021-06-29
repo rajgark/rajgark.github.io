@@ -21,6 +21,7 @@ $$
 \mathscr{F} = \frac{\sigma V}{L}
 \end{aligned}
 $$
+and
 $$
 \begin{aligned}
 \sigma = q(n\mu_n + p\mu_p)
