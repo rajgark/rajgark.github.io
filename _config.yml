@@ -62,7 +62,7 @@ collections:
 
 ### Disqus ###
 disqus:
-  shortname: rajgark                     # Your website Shortname on disqus
+  shortname: https-rajgark-github-io                     # Your website Shortname on disqus
 
 
 ### Analytics ###
