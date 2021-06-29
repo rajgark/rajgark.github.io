@@ -32,6 +32,3 @@ This website is meant to be a showcase of my projects & things, almost like an e
 <div class="row">
 {% include about/timeline.html %}
 </div>
-
-Courses taken: Physics I/II, Modern Physics, the Calculus sequence, Mathematical Methods in Physics, Scientific
-Imaging, Computer Science I, Quantum Mechanics, Electricity & Magnetism, Experimental Physics, Momentum of Photons, Discrete Mathematics, Statistics for Economics, Applied Data Analysis, Deep Learning, How Things Work, Entrepreneurship, Nanoelectronics, General Biology, Classical Political Thought, Voice Voting & Virtual Freedom, Classical Ethics
