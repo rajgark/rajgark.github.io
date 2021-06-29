@@ -7,7 +7,7 @@
     {% assign title = page.name | escape %}
   {% endif %}
 
-  {% if page.mathjax == 'true'}
+  {% if page.mathjax %}
   {% include mathjax.html %}
   {% endif %}
 
