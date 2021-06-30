@@ -54,5 +54,4 @@ MathJax.Hub.Config({
     }
   }
 });
-
 MathJax.Ajax.loadComplete("https://vincenttam.github.io/javascripts/MathJaxLocal.js");
