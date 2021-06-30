@@ -29,7 +29,7 @@ Fast forward a couple years(or cameras - CyberShots, a Sony WX350 and a Nikon DS
 
 On a high traffic "trail" in central Bloomington, the evenings would be bustling with folks of all ages on their quest to close their rings, get some fresh air, or whatever their motive is. My girlfriend and I had a relatively heavy packed semester and there's nothing better than disconnecting for some time, or, doing the readings outside. We would frequently traverse this trail... until one day we found our enclave. We detoured and found a secondary route and on this route was a gazebo, a lush green field, outdoor wooden swing seats, bird feeders, vibrant foliage, and rows of stone seats. We hold this place near and dear because despite the high traffic area, almost nobody ever comes to this hidden gem. Sort of like the little sprig above... A hidden gem. The only thing growing through the gravel. A lone warrior.
 
-{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLXm6UxuNT1ZiW9t4Krc8wyXx7IioPqNTm0dWAjkjTCd8cCHB6ULlKR9N6ospouLg9z7NKOmyI-bPQDBIN3eZcJzLfpzPRvQqfGKYCJ-lXTNtU0gPJ4bbVGODr7tOWqHJpnNsrrGer1zZebYemlvsfW7=w1206-h804-no?authuser=0" caption="Seeing But Not Saying | 210 mm,  $$f$$/7,  1/400,  ILCE-6000, AP | April 2021" %}
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLXm6UxuNT1ZiW9t4Krc8wyXx7IioPqNTm0dWAjkjTCd8cCHB6ULlKR9N6ospouLg9z7NKOmyI-bPQDBIN3eZcJzLfpzPRvQqfGKYCJ-lXTNtU0gPJ4bbVGODr7tOWqHJpnNsrrGer1zZebYemlvsfW7=w1206-h804-no?authuser=0" caption="Seeing But Not Saying | 210 mm,  \(f\)/7,  1/400,  ILCE-6000, AP | April 2021" %}
 
 Plenty of bunnies lounging and munching around too...
 <br>
