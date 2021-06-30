@@ -5,12 +5,12 @@ style: fill
 color: info
 description: Photos I've taken from places I've been. Updating as I get time.
 comments: true
-mathjax: true
+
 ---
 
 <br>
 #### Gear & Post-processing
-1. Sony \\\\ \alpha \\\\6000 (ILCE-6000)
+1. Sony $\alpha$6000 (ILCE-6000)
 1. 55-210mm lens (usually) w/ UV filter
 1. 15-50mm lens (occasionally) w/ UV filter
 1. Luminar 4 & Aurora HDR (screw Adobe & their SaaS business model, but lowkey Lightroom is the :goat:)
