@@ -5,7 +5,7 @@ style: fill
 color: secondary
 comments: true
 description: A dive into modern CMOS Imaging architecture
-
+mathjax: true
 ---
 <br>
 ### Prelude
