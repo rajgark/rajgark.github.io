@@ -38,5 +38,6 @@ I tried to keep the $$f$$ stop near a value which would keep the bunny and adjac
 
 {% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLXt1VUj5EN95JvYcK9jEl2Xn76XNraWbbCt4iSfvmgDl5FnrUGB9VWDgd_dC_-3PVrYRqeAPhCSJJpf1NVTW_lKX8BvdjuMMQ8-5ijm3GP1Skkef_10ymHX2ATpseWW_UgrOuNTamHs1fVZ-TB_ssFV=w1206-h804-no?authuser=0" caption="Piney Boi | 178 mm,  \(f\)/11,  1/320,  ILCE-6000, AP | April 2021" %}
 
-
 I tried to get good bokeh with the pinecone but it's tough because I'm using a 55-210mm lens and the $f$ stop causes somewhat of a middle effect between clear edges and uncomfortable blurriness.  In retrospect I should've increased the $$f$$ stop and changed it to center-weighted metering...
+
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLV87eBgy34lOg9Wlrqok3CWF8etQ_0QEyuQSS-JVuPg2Ty7o4oFYNAYSs5jn9Oag_89xtrnBw-cXQvZPc45FThGmtrjbnlKUQ8FHC3-gXn6E3cmdIunHKt-VEBKVV5AC2ZX0g4BI8HkMZKsuVDKGuu9=w1286-h857-no?authuser=0" caption="War Torn Butterfly | 210 mm,  \(f\)/8,  1/400,  ILCE-6000, AP | April 2021" %}
