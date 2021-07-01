@@ -17,4 +17,5 @@ The building block of most imaging systems, this is the foundational pillar of c
 
 Based on this, intuitively we know that absorption of light depends entirely on the _exposure time_ of the diodes to the light source. Keep in mind that the camera is essentially capturing a 3-dimensional world onto a 2-dimensional time dependent continuous distribution of varying photon energies onto an $$\mathbb{NxN}$$ array of photodiodes.
 
-###### Tangent On Discretization...
+##### Tangent On Discretization...
+A reason this phenomena is so interesting is more biological/neurological than anything else. Our eyes are in a state of continuous spatial sampling while temporal sampling is handled by an entirely different part of the brain yet still meshing together. For example, if I was to ask what you were looking at around noon, that's discretizing a continuous temporal & spatial sampling, assuming it's past noon and you've been looking at other things after noon. The cohesive structure of the brain allowing for two intensive phenomena to be meshed on demand is actually fascinating, and I find this to be more and more prevalent while studying physics, that the human brain & anatomy is a whole different beast in and of itself. 
