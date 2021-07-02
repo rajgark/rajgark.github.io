@@ -30,8 +30,31 @@ Basically: input $$\to$$ light, output $$\to$$ image. Intuitively thinking, we n
 
 ### Analog To Digital Conversion
 To capture RGB (color) light, a Bayer filter is placed over the photodiodes. A consumer camera pixel is simply 3 photodiodes measuring the intensity of one of the colors hitting it: R, G, and B.
-{% include elements/figure.html image="http://www.siliconimaging.com/Images/Microlenses.gif" caption="Bayer Filter | Only photons of specific color wavelength pass through onto photosensor" %}  
+{% include elements/figure.html image="http://www.siliconimaging.com/Images/Microlenses.gif" caption="Bayer Filter | Only photons of specific color wavelength pass through onto the diode" %}  
 These make up the most basic pixels. Keep in mind that the camera is essentially capturing a 3-dimensional world onto a 2-dimensional time dependent continuous distribution of varying photon energies onto an $$\mathbb{NxN}$$ array of pixels (or $$\mathbb{NxM}$$; the geometry is manufacturer specific).
 The individual pixel is also manufacturer specific, some containing 4 transistors, functioning as different gates. The actual analog to digital conversion is done by one of the transistors in the photodiode which measures the charge and sends the measurement through to a digitizer which converts it to a numerical value which gets processed. The summation of voltages across the entire photosensor gets passed through the digitizer which gives it a numerical value, which gets formed into the $$\mathbb{NxN}$$ matrix, thus forming a picture as we know it.
 
 ### Some Important Selection Criteria
+- Number of pixels: Often used to judge the spatial resolution (i.e. how fine are the details being captured) of the sensor
+    - It's not that simple. The size of the pixel is also very important and the biggest factor are actually the optics in front of the sensor.
+- Pixel size: How big is the individual pixel? Smaller pixels $$\to$$ more per given area
+    - However, keep in mind smaller pixels store less charge and the range of light values measured is reduced
+    - smaller pixels can sometimes result in more noise in low light levels
+- Sensor size: bigger is better usually. Both factors above should be harmonious with one another. Nikon, Sony, Canon and Leica have done a great job with this.
+- Dynamic range: How many different light levels can be detected? Usually expressed in bits. A 10 bit dynamic range = $$2^10 = 1024$$ different levels can be resolved.
+    - Small pixels cannot have a large dynamic range because they cannot hold enough electrons.
+- Fill factor: How much of the sensors surface is used to gather light  
+    - more surface $$\to$$ shorter exposure time
+    - Full frame CCD (charge coupled device architecture) uses almost the entire sensor
+    - CMOS architecture usually uses less of the surface. The transistors used for transferring the charge take up space.
+- Quantum efficiency (QE): what is the chance that a single photon striking the photodiode will generate a single electron to be liberated?
+    - A minimum energy threshold must be crossed (1.1eV, usually)
+    - Front illuminated CCD's absorb short wavelength photons, waste the resolution effort
+    - Back illuminated CCD's have a higher QE. Light incident on the back eliminates losses from the gates.
+    - Historically, CMOS has had less QE than CCD's, but are near if not better nowadays
+- Shutters: important b/c it determines when the camera 'detects' an image
+    - Mechanical shutters are slow and physically placed in front of the sensor, usually in full frame CCD's.
+    - Global shutters: entire active area of the sensor is detecting an image at the same time, meaning, the entire image is captured along the sensor simultaneously rather than being resolved as the shutter opens.
+    - Rolling shutters: image is transferred pixel by pixel so the exposure values are different. Essentially the image is being exposed row by row. Why would anyone want this?
+- Sensitivity: the lowest light level that can be detected. Usually this is the level at which a signal will be produced, typically at the same amplitude as noise signal.
+- Aspect ratios: ratio of length to width.
