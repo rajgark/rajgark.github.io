@@ -17,7 +17,9 @@ $$\frac{hc}{\lambda}$$ where $$h$$ is the Planck constant, $$c$$ is the speed of
 <br>
 
 Based on this, intuitively we know that absorption of light depends entirely on the _exposure time_ of the diodes to the light source. That leads to the signal (the image, in this case). However, it also leads to noise(extraneous unwanted stuff that can distort the true values & bury them), so there is a signal to noise ratio (SNR - bigger is better) involved:
+
 $$SNR = \frac{PQ_et}{\sqrt{PQ_et+Dt+N_r^2}}$$
+
 where $$P$$ is the photon flux (photons per pixel per second), $$Q_e$$ is the quantum efficiency, $$t$$ is time, $$D$$ is the dark current, $$N_r$$ is the readout noise (usually 2-20 electrons per pixel)
 
 ###### Tangent On Discretization...
