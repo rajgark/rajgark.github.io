@@ -16,7 +16,9 @@ The building block of most imaging systems, at 2 to 30 $$\mu$$m, this is the fou
 $$\frac{hc}{\lambda}$$ where $$h$$ is the Planck constant, $$c$$ is the speed of light, and $$\lambda$$ is the wavelengh, is what each photosensor picks up. An array of these super tiny diodes make up the photosensor.
 <br>
 
-Based on this, intuitively we know that absorption of light depends entirely on the _exposure time_ of the diodes to the light source.
+Based on this, intuitively we know that absorption of light depends entirely on the _exposure time_ of the diodes to the light source. That leads to the signal (the image, in this case). However, it also leads to noise(extraneous unwanted stuff that can distort the true values & bury them), so there is a signal to noise ratio (SNR - bigger is better) involved:
+$$SNR = \frac{PQ_et}{\sqrt{PQ_et+Dt+N_r^2}}$$
+where $$P$$ is the photon flux (photons per pixel per second), $$Q_e$$ is the quantum efficiency, $$t$$ is time, $$D$$ is the dark current, $$N_r$$ is the readout noise (usually 2-20 electrons per pixel)
 
 ###### Tangent On Discretization...
 A reason this phenomena is so interesting is more biological/neurological than anything else. Our eyes(rather, occipital lobe, but you get the idea) are in a state of continuous spatial sampling while temporal sampling is handled by an entirely different part of the brain (which in this case would be working memory handled by the right side of the prefrontal cortex) yet still meshing together on demand. For example, if I was to ask what you were looking at around noon, that's discretizing a continuous temporal & spatial sampling, assuming it's past noon and you've been looking at other things after noon. The cohesive structure of the brain allowing for two intensive phenomena to be meshed on demand is actually fascinating, and I find this to be more and more prevalent while studying physics, that the human brain & anatomy is a whole different beast in and of itself. I digress...
@@ -30,4 +32,4 @@ To capture RGB (color) light, a Bayer filter is placed over the photodiodes. A c
 These make up the most basic pixels. Keep in mind that the camera is essentially capturing a 3-dimensional world onto a 2-dimensional time dependent continuous distribution of varying photon energies onto an $$\mathbb{NxN}$$ array of pixels (or $$\mathbb{NxM}$$; the geometry is manufacturer specific).
 The individual pixel is also manufacturer specific, some containing 4 transistors, functioning as different gates. The actual analog to digital conversion is done by one of the transistors in the photodiode which measures the charge and sends the measurement through to a digitizer which converts it to a numerical value which gets processed. The summation of voltages across the entire photosensor gets passed through the digitizer which gives it a numerical value, which gets formed into the $$\mathbb{NxN}$$ matrix, thus forming a picture as we know it.
 
-### Some Selection Criteria...
+### Some Important Selection Criteria
