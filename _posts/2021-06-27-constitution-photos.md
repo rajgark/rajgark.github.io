@@ -1,5 +1,5 @@
 ---
-title: Photo Portfolio (frequently updated)
+title: Photo Portfolio
 tags: [Photography, Luminar 4 Post-Processing]
 style: fill
 color: info
@@ -50,4 +50,4 @@ It rained outside our house and I noticed the raindrops aligned on the edge of t
 
 {% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVRHKeSPDf6yMpOccblZanxhCGbyTFsNhtpJleEPzNKDXehEohi3qHiXauV-9iXQpyfMoDOdJdhrC-8SrQrmxY4sGmoAibpq9mVI4rmfotb6LKhjJi8PyZyimsCtQI8RiKYg8CG1D8UlNBrdxexK-aW=w711-h948-no?authuser=0" caption="Wrigley Building | 4.25 mm,  \(f\)/1.7,  1/6224,  Samsung Galaxy 8 Camera | February 2018" %}
 
-I was waiting for a bus on my way to school. Wrigley building looked cool, just lowered the exposure to make it look 'antique' 
+I was waiting for a bus on my way to school. Wrigley building looked cool, just lowered the exposure to make it look 'antique'
