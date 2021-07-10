@@ -52,4 +52,8 @@ It rained outside our house and I noticed the raindrops aligned on the edge of t
 
 I was waiting for a bus on my way to school. Wrigley building looked cool, just lowered the exposure to make it look 'antique'
 
-{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVRSFyGlvvKoZPjBWxMpATYODJF0KLBxvKwT6M62zDxW0cNr3KyySOlQwyTgFo5qHPcGP8eVEb62f2rX7O0Ne4TrVTUmSgCh4svArJv7N9O9bFGD6LX5hrkJNodrWMptQYUru6ZkxwSXzswdOMRVmrP=w561-h748-no?authuser=0" caption="Dark Sun | 3.9 mm,  \(f\)/1.8,  1/50000,  iPhone 8 Camera | February 2018" %}
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLWqiaSgolfb9AdVBh3h_Um-GUFX5gKNh4E8555cH5-BO_Dw9Ntmqev4zjz8FZCKnVlTz_mCxP9Q-cQanzfgjsLcxz4poBCzvUDPRqx2fpbj1BnJQxIkBzidgNJ-5mlkcjp0rvHdGWpFJIzptd-XbMs1=w998-h748-no?authuser=0" caption="Groovy Galveston | 3.99 mm,  \(f\)/1.8,  1/6098,  iPhone 8 Camera | November 2020" %}
+
+Gulf of Mexico taken at Galveston. The original is pretty much the same, this one has a slightly lower exposure gradient on the bottom to bring out the crisp central waves and I'm experimenting with vignette.
+
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLX6qRoRWYaIVjVxu1rKMyvZODfGXYgU9BfCs8UcGQdHQ9DYYUBOHWjQHQ4YQhnZTrkf7dSHwwjYc9QPa_3OdLk0gZzU1M_luqWGAooWKF7JtGmz7T51pKoNmOUXk_oE6AsG7p5_EYWH9f-lLzTVtjKa=w1060-h597-no?authuser=0" caption="Holy :cow: | 4.2 mm,  \(f\)/1.6,  1/121,  iPhone 12 Pro Camera | March 2021" %}
