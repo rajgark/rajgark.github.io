@@ -3,7 +3,7 @@ title: Photo Portfolio
 tags: [Photography, Luminar 4 Post-Processing]
 style: fill
 color: info
-description: Photos I've taken from places I've been. Updating as I get time.
+description: Photos I've taken from places I've been. Last updated July 10th 2021.
 comments: true
 mathjax: true
 ---
@@ -13,7 +13,8 @@ mathjax: true
 1. Sony $$\alpha$$6000 (ILCE-6000)
 1. 55-210mm lens (usually) w/ UV filter
 1. 15-50mm lens (occasionally) w/ UV filter
-1. Luminar 4 & Aurora HDR (screw Adobe & their SaaS business model, but lowkey Lightroom is the :goat:)
+1. Luminar 4 (screw Adobe & their SaaS business model, but lowkey Lightroom is the :goat:)
+1. iPhone 12 Pro
 <br>
 
 #### Journey
@@ -48,12 +49,40 @@ I think I beat Apple's stock wallpaper. Nothing much to say here, just a nice pi
 
 It rained outside our house and I noticed the raindrops aligned on the edge of the leaf, immediately lowered the exposure a bit to accentuate the glossiness of the water and clicked.
 
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLWEsHDyk6aexSLzS1EYp3GBRlqT1muwUdoG_BCf93PCJuGdtMVo-Ofm1CuoeudL5Q39TYVmegArjIQW4tU8Ro9F9l7BG-hqECVKrUxJzOl4mNvc_QDZRbYCFCCp3S8-bdRM9Yiqr5EmVHNpiOqDvtkh=w861-h485-no?authuser=0" caption="Holy :cow: | 4.2 mm,  \(f\)/1.6,  1/121,  iPhone 12 Pro Camera | March 2021" %}
+
+My girlfriend and I occasionally went to farms to purchase fresh local produce/meats, where once we saw this curious (and stinky) fellow.
+
 {% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVRHKeSPDf6yMpOccblZanxhCGbyTFsNhtpJleEPzNKDXehEohi3qHiXauV-9iXQpyfMoDOdJdhrC-8SrQrmxY4sGmoAibpq9mVI4rmfotb6LKhjJi8PyZyimsCtQI8RiKYg8CG1D8UlNBrdxexK-aW=w711-h948-no?authuser=0" caption="Wrigley Building | 4.25 mm,  \(f\)/1.7,  1/6224,  Samsung Galaxy 8 Camera | February 2018" %}
 
 I was waiting for a bus on my way to school. Wrigley building looked cool, just lowered the exposure to make it look 'antique'
 
-{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLWqiaSgolfb9AdVBh3h_Um-GUFX5gKNh4E8555cH5-BO_Dw9Ntmqev4zjz8FZCKnVlTz_mCxP9Q-cQanzfgjsLcxz4poBCzvUDPRqx2fpbj1BnJQxIkBzidgNJ-5mlkcjp0rvHdGWpFJIzptd-XbMs1=w998-h748-no?authuser=0" caption="Groovy Galveston | 3.99 mm,  \(f\)/1.8,  1/6098,  iPhone 8 Camera | November 2020" %}
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLU5pVam4nA5Pdthg1wEK07_ccKmXhgrklyXKdDbx0vTQdtvnR6ZH0SOnmVTZd6tI8hJHt69RU7dW9tE3yvchEB85THAp9aEgXk13S0gH6zroVThRJa85MRifTL7iibLK8y4_4YSKO7NuKQQ3qFs3Wro=w861-h574-no?authuser=0" caption="Berry Boi | 10.4 mm,  \(f\)/5.6,  1/800,  Sony DSC-RX100 | June 2016" %}
 
-Gulf of Mexico taken at Galveston. The original is pretty much the same, this one has a slightly lower exposure gradient on the bottom to bring out the crisp central waves and I'm experimenting with vignette.
+My brother at a strawberry picking thing. The original was heavily overexposed... the flash was on for some reason along with direct sunlight, so I applied a brush mask on him so I could lower the exposure and slightly increase the contrast. Luminar's AI Sky feature is cool for deepening the blues of the sky. Talk about a fashion icon though, man really came prepared for strawberries wearing red glasses & a red shirt...
 
-{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLX6qRoRWYaIVjVxu1rKMyvZODfGXYgU9BfCs8UcGQdHQ9DYYUBOHWjQHQ4YQhnZTrkf7dSHwwjYc9QPa_3OdLk0gZzU1M_luqWGAooWKF7JtGmz7T51pKoNmOUXk_oE6AsG7p5_EYWH9f-lLzTVtjKa=w1060-h597-no?authuser=0" caption="Holy :cow: | 4.2 mm,  \(f\)/1.6,  1/121,  iPhone 12 Pro Camera | March 2021" %}
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVxgvrkjqsDkXjQOWvQoA2KyW2_AlZ9B2zCtKzlOFNqdwCHYtISC3YMzZoqmwoiVlmvl-95c0TxhzemUJyHLq_mOwUMmr3aQWcAMmW14kZTXPYZv8RK3C5AxQ5SkaeNQO32hzyWlwUJc7hSjm_I56RY=w861-h646-no?authuser=0" caption="Groovy Galveston | 3.99 mm,  \(f\)/1.8,  1/6098,  iPhone 8 Camera | November 2020" %}
+
+Gulf of Mexico taken at Galveston. The original is pretty much the same, this one has a slightly lower exposure gradient on the bottom to bring out the crisp central waves and I'm experimenting with vignette and accentuating sunlight in images with little sunlight.
+
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLXcyAqwMX6SK92yPJG-Kp-QSbbFZMbeyhbv17ktJYEqOp--6NCpDfpNgveOfJyca5BtrRd_1YjV0P5CvYA2qEyspf1wWwC6DSiRzgmnJMX5BH5zJWnxGEi_ZosOcwNfL0sScpiSJNS1p6IsZH4sCu1o=w861-h646-no?authuser=0" caption="A Visionary | 6 mm,  \(f\)/2.8,  1/250,  iPhone 8 Camera | September 2006" %}
+
+I must have been 7 at this time in Mysore, India... I remember we went to this resort along with my dad's coworkers family. I took this on a Sony DSC-S90 Cybershot, probably the first camera that I became super familiar with - experimenting with all the settings and seeing how they affected the shot.  
+
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLWRJUQjQbt74jfERtCduCt90qSCUH6o68YO77xSS_9RQq-ZiKky2_LIeKTbRKATdbwrMtFBWVQ-ggnpbCPCQu9XZUM6yq6575NVaIs_ZBbyiexy27SaLMSmWrmsu2RhZcsD5qN4oEB-pTO2Oev8rj6c=w861-h574-no?authuser=0" caption="Bi-king Nerd | 20.02 mm,  \(f\)/5.6,  1/400,  Sony DSC-RX100 | July 2015" %}
+
+Divvy's looked cool.
+
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVbDbI2nf7L30fKfkx9ZTnQWdpnwajY_7AV_MeAyfdaM2vNDDRWk4Hw7EyfdiTm8ihogZi4HjSCUnOZnzcg1DKqoOPQNN5WlAVBCluryDQreHhbncS1vUiRUrjwBl9fYoMkdbfTw4aHpCwiN0n9XSyO=w861-h574-no?authuser=0" caption="Wrigley Trump | 10.4 mm,  \(f\)/5.6,  1/400,  Sony DSC-RX100 | July 2015" %}
+
+Buildings looked cool.
+
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVwoTF_yDztLrtMfK-I1a9vZWukAIZwBJYBuQUCZ1Ap5lga7PXivVc9-zfsqhffSXIQ1Ar6yrnw7i1-fCOQAXwQyYlOc_sxhou9e3KT6IgWkN4BM-3hBqO8Aw4CEQFC46BzBcq14fZhWr05U-qZs83B=w861-h574-no?authuser=0" caption="Free The Homie | 37.1 mm,  \(f\)/4.9,  1/100,  Sony DSC-RX100 | August 2015" %}
+
+This guy would make a great shoulder companion.
+
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLUM1bk6ZCzULVH52TTLuGnqJeeOCm0GN2kb9Umfw4RBCVDNQy65tc6QzF8N_gznzgYvy-cUXRxKLbNBRqBpD0VQDtbN9iK6dvXaoa6FhaCj-O1eXMe5olqbxd08tZY7aVc3J8Njm-zSzQRT2gfK2YKM=w861-h574-no?authuser=0" caption="Golden Hour Archives | 16.99 mm,  \(f\)/4,  1/100,  Sony DSC-RX100 | June 2016" %}
+
+Really wish I could go inside and see the archives.
+
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLV9a7SUdCq8GcJ8f_53F536fFxZlDdkJlw4E2fIFWB2Qq0qD__SeIIaHSaN7UhFw74muvyLniwKcVlUCpGShH7JcjulmzbYA_0CBCe9EHtaxOX9BY5r2dddpcWRorNHBdoChHoMdEfj1SuMp3cfjJI9=w861-h646-no?authuser=0" caption="Mysore Buildings | 6 mm,  \(f\)/5.6,  1/400,  Sony DSC-S90 | September 2006" %}
