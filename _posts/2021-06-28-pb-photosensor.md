@@ -8,7 +8,7 @@ description: A dive into modern CMOS Imaging architecture used in most consumer 
 mathjax: true
 ---
 <br>
-### Prelude
+### Foreword
 I took a class on scientific imaging where we examined imaging systems ranging from atomic scale imaging to astral imaging, as well as using _Mathematica_ for image processing & analysis. This class was an amalgamation of my hobby and academic interest, so I'm going to share one of the coolest bits of knowledge I've gained from the course (credit to Dr. deHarak, and the textbook _Principles of Digital Image Processing by Burger & Burge_). While CMOS architectures are broad, I'm focusing on the CMOS image sensor here, specifically the Active-Pixel Sensor (known as APS-C).
 <br>
 ### Brief Introduction to Photodiodes
