@@ -85,4 +85,10 @@ This guy would make a great shoulder companion.
 
 Really wish I could go inside and see the archives.
 
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVswdtAK0KeDZrwWQODZJU_69hjkLsgdEUy8hXaVb4IySDp8bBwSDGkswVB-iHuZuuT7ce7kmfgfyKKa0spOTQtiF6_xWQNsBsiH_uYH02YzmvlMVhVVfxjOBl_36HQRPsFN4grdO7lfDZ33fXNMntZ=w861-h574-no?authuser=0" caption="Curly Cutie | 120 mm,  \(f\)/10,  1/200,  Sony ILCE-6000 | April 2021" %}
+
+My lady being the best candid subject to shoot :)
+
 {% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLV9a7SUdCq8GcJ8f_53F536fFxZlDdkJlw4E2fIFWB2Qq0qD__SeIIaHSaN7UhFw74muvyLniwKcVlUCpGShH7JcjulmzbYA_0CBCe9EHtaxOX9BY5r2dddpcWRorNHBdoChHoMdEfj1SuMp3cfjJI9=w861-h646-no?authuser=0" caption="Mysore Buildings | 6 mm,  \(f\)/5.6,  1/400,  Sony DSC-S90 | September 2006" %}
+
+Again, at the same place as the geese above. Some cool buildings on the company campus. 
