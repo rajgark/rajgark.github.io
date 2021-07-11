@@ -27,11 +27,11 @@ Fast forward a couple years and we moved to Illinois, living in an apartment com
 Fast forward a couple years(or cameras - CyberShots(DSC-RX100, DSC-S90), a Sony WX350 and a Nikon D40X) later... brings me to my present day camera and lens of choice above. Throughout the years I've retained this hobby and it's slowly becoming a prominent part of my life again. I've gone back through all of our hard drives and I now have a collection of photos from 2005 onwards spanning around 1 TB. These are the ones I've taken...  
 <br>
 <br>
-{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLUmaMACZO-nddguaj4w_bj_vF6M34ctUfVBDqEXJOxnNfJhfUMysuLapNCubQVB7qRArTFX5yICD74mjOIMHn7mR5n6DHU5sbRo1nTmPKsjrph1NKNok07rRv5PVYBxcbvOOuMnZFGipIrW8KvEjLJT=w1314-h876-no?authuser=0" caption="Lone Warrior | 210 mm,  \(f\)/6.3,  1/400,  ILCE-6000, AP | April 2021" %}
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLUmaMACZO-nddguaj4w_bj_vF6M34ctUfVBDqEXJOxnNfJhfUMysuLapNCubQVB7qRArTFX5yICD74mjOIMHn7mR5n6DHU5sbRo1nTmPKsjrph1NKNok07rRv5PVYBxcbvOOuMnZFGipIrW8KvEjLJT=w1314-h876-no?authuser=0" caption="Lone Warrior | 210 mm,  \(f\)/6.3,  1/400,  Sony ILCE-6000 | April 2021" %}
 
 On a high traffic "trail" in central Bloomington, the evenings would be bustling with folks of all ages on their quest to close their rings, get some fresh air, or whatever their motive is. My girlfriend and I had a relatively heavy packed semester and there's nothing better than disconnecting for some time, or, doing the readings outside. We would frequently traverse this trail... until one day we found our enclave. We detoured and found a secondary route and on this route was a gazebo, a lush green field, outdoor wooden swing seats, bird feeders, vibrant foliage, and rows of stone seats. We hold this place near and dear because despite the high traffic area, almost nobody ever comes to this hidden gem. Sort of like the little sprig above... A hidden gem. The only thing growing through the gravel. A lone warrior.
 
-{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLXm6UxuNT1ZiW9t4Krc8wyXx7IioPqNTm0dWAjkjTCd8cCHB6ULlKR9N6ospouLg9z7NKOmyI-bPQDBIN3eZcJzLfpzPRvQqfGKYCJ-lXTNtU0gPJ4bbVGODr7tOWqHJpnNsrrGer1zZebYemlvsfW7=w1206-h804-no?authuser=0" caption="Seeing But Not Saying | 210 mm,  \(f\)/7,  1/400,  ILCE-6000, AP | April 2021" %}
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLXm6UxuNT1ZiW9t4Krc8wyXx7IioPqNTm0dWAjkjTCd8cCHB6ULlKR9N6ospouLg9z7NKOmyI-bPQDBIN3eZcJzLfpzPRvQqfGKYCJ-lXTNtU0gPJ4bbVGODr7tOWqHJpnNsrrGer1zZebYemlvsfW7=w1206-h804-no?authuser=0" caption="No Carrots For You | 210 mm,  \(f\)/7,  1/400,  Sony ILCE-6000 | April 2021" %}
 
 Plenty of bunnies lounging and munching around too...
 <br>
@@ -41,11 +41,11 @@ I tried to keep the $$f$$ stop near a value which would keep the bunny and adjac
 
 I tried to get good bokeh with the pinecone but it's tough because I'm using a 55-210mm lens and the $f$ stop causes somewhat of a middle effect between clear edges and uncomfortable blurriness.  In retrospect I should've increased the $$f$$ stop and changed it to center-weighted metering...
 
-{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVXBfavUDd4zKslq3PKXxqjaMBFJuZ7HM8IxpU006WCeUMnLgq8KZuTVmZylvzLRNPxEx-q9UXIPulNJ5pBLSRdowlvTyEUlDUa8quFTRUWWV2Tvc0opQtCQ9c8PU22C8Ym76n0opNT_4kmNG2DbPyE=w711-h948-no?authuser=0" caption="Drop It | 4.5 mm,  \(f\)/2.2,  1/638,  iPhone 6 Camera | October 2016" %}
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVXBfavUDd4zKslq3PKXxqjaMBFJuZ7HM8IxpU006WCeUMnLgq8KZuTVmZylvzLRNPxEx-q9UXIPulNJ5pBLSRdowlvTyEUlDUa8quFTRUWWV2Tvc0opQtCQ9c8PU22C8Ym76n0opNT_4kmNG2DbPyE=w711-h948-no?authuser=0" caption="Drop It Like It's :fire: | 4.5 mm,  \(f\)/2.2,  1/638,  iPhone 6 Camera | October 2016" %}
 
 I think I beat Apple's stock wallpaper. Nothing much to say here, just a nice picture of water drops.
 
-{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVT399uSXjXB2HJeZPCgumJfaE3IUyKG-MV9WfniuSS9Muq1CMkrKXNPIVdUhDq1aRFi00YvNOu3wCik6HhqOQNQ0TFkruQQ9VrAVfpOKCS_JwyropBvTdurul98o4DaHyezpeYcB40QYj7jNJ64Vm3=w711-h948-no?authuser=0" caption="Hydrophobic Plant? | 3.99 mm,  \(f\)/1.8,  1/190,  iPhone 8 Camera | June 2018" %}
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVT399uSXjXB2HJeZPCgumJfaE3IUyKG-MV9WfniuSS9Muq1CMkrKXNPIVdUhDq1aRFi00YvNOu3wCik6HhqOQNQ0TFkruQQ9VrAVfpOKCS_JwyropBvTdurul98o4DaHyezpeYcB40QYj7jNJ64Vm3=w711-h948-no?authuser=0" caption="Hydro _phobic_ Plant? | 3.99 mm,  \(f\)/1.8,  1/190,  iPhone 8 Camera | June 2018" %}
 
 It rained outside our house and I noticed the raindrops aligned on the edge of the leaf, immediately lowered the exposure a bit to accentuate the glossiness of the water and clicked.
 
@@ -61,7 +61,7 @@ I was waiting for a bus on my way to school. Wrigley building looked cool, just 
 
 My brother at a strawberry picking thing. The original was heavily overexposed... the flash was on for some reason along with direct sunlight, so I applied a brush mask on him so I could lower the exposure and slightly increase the contrast. Luminar's AI Sky feature is cool for deepening the blues of the sky. Talk about a fashion icon though, man really came prepared for strawberries wearing red glasses & a red shirt...
 
-{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVxgvrkjqsDkXjQOWvQoA2KyW2_AlZ9B2zCtKzlOFNqdwCHYtISC3YMzZoqmwoiVlmvl-95c0TxhzemUJyHLq_mOwUMmr3aQWcAMmW14kZTXPYZv8RK3C5AxQ5SkaeNQO32hzyWlwUJc7hSjm_I56RY=w861-h646-no?authuser=0" caption="Groovy Galveston | 3.99 mm,  \(f\)/1.8,  1/6098,  iPhone 8 Camera | November 2020" %}
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVxgvrkjqsDkXjQOWvQoA2KyW2_AlZ9B2zCtKzlOFNqdwCHYtISC3YMzZoqmwoiVlmvl-95c0TxhzemUJyHLq_mOwUMmr3aQWcAMmW14kZTXPYZv8RK3C5AxQ5SkaeNQO32hzyWlwUJc7hSjm_I56RY=w861-h646-no?authuser=0" caption="Eerie Galveston | 3.99 mm,  \(f\)/1.8,  1/6098,  iPhone 8 Camera | November 2020" %}
 
 Gulf of Mexico taken at Galveston. The original is pretty much the same, this one has a slightly lower exposure gradient on the bottom to bring out the crisp central waves and I'm experimenting with vignette and accentuating sunlight in images with little sunlight.
 
@@ -73,7 +73,7 @@ I must have been 7 at this time in Mysore, India... I remember we went to this r
 
 Divvy's looked cool.
 
-{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVbDbI2nf7L30fKfkx9ZTnQWdpnwajY_7AV_MeAyfdaM2vNDDRWk4Hw7EyfdiTm8ihogZi4HjSCUnOZnzcg1DKqoOPQNN5WlAVBCluryDQreHhbncS1vUiRUrjwBl9fYoMkdbfTw4aHpCwiN0n9XSyO=w861-h574-no?authuser=0" caption="Wrigley Trump | 10.4 mm,  \(f\)/5.6,  1/400,  Sony DSC-RX100 | July 2015" %}
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVbDbI2nf7L30fKfkx9ZTnQWdpnwajY_7AV_MeAyfdaM2vNDDRWk4Hw7EyfdiTm8ihogZi4HjSCUnOZnzcg1DKqoOPQNN5WlAVBCluryDQreHhbncS1vUiRUrjwBl9fYoMkdbfTw4aHpCwiN0n9XSyO=w861-h574-no?authuser=0" caption="Trump Tower | 10.4 mm,  \(f\)/5.6,  1/400,  Sony DSC-RX100 | July 2015" %}
 
 Buildings looked cool.
 
@@ -81,7 +81,7 @@ Buildings looked cool.
 
 This guy would make a great shoulder companion.
 
-{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLUM1bk6ZCzULVH52TTLuGnqJeeOCm0GN2kb9Umfw4RBCVDNQy65tc6QzF8N_gznzgYvy-cUXRxKLbNBRqBpD0VQDtbN9iK6dvXaoa6FhaCj-O1eXMe5olqbxd08tZY7aVc3J8Njm-zSzQRT2gfK2YKM=w861-h574-no?authuser=0" caption="Golden Hour Archives | 16.99 mm,  \(f\)/4,  1/100,  Sony DSC-RX100 | June 2016" %}
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLUM1bk6ZCzULVH52TTLuGnqJeeOCm0GN2kb9Umfw4RBCVDNQy65tc6QzF8N_gznzgYvy-cUXRxKLbNBRqBpD0VQDtbN9iK6dvXaoa6FhaCj-O1eXMe5olqbxd08tZY7aVc3J8Njm-zSzQRT2gfK2YKM=w861-h574-no?authuser=0" caption="Building w/ Old Papers| 16.99 mm,  \(f\)/4,  1/100,  Sony DSC-RX100 | June 2016" %}
 
 Really wish I could go inside and see the archives.
 
@@ -91,4 +91,4 @@ My lady being the best candid subject to shoot :)
 
 {% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLV9a7SUdCq8GcJ8f_53F536fFxZlDdkJlw4E2fIFWB2Qq0qD__SeIIaHSaN7UhFw74muvyLniwKcVlUCpGShH7JcjulmzbYA_0CBCe9EHtaxOX9BY5r2dddpcWRorNHBdoChHoMdEfj1SuMp3cfjJI9=w861-h646-no?authuser=0" caption="Mysore Buildings | 6 mm,  \(f\)/5.6,  1/400,  Sony DSC-S90 | September 2006" %}
 
-Again, at the same place as the geese above. Some cool buildings on the company campus. 
+Again, at the same place as the geese above. Some cool buildings on the company campus.
