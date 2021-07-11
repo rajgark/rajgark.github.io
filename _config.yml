@@ -3,8 +3,8 @@ title               : Raj Garkhedkar
 description         : >-
                       Aspiring trophy husband.
                       Currently in the SciML space doing simulations & training models for sparse identification of nonlinear dynamical systems through data driven model discovery.
-baseurl             : ""                     
-repository          : rajgark/rajgark.github.io     
+baseurl             : ""
+repository          : rajgark/rajgark.github.io
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
@@ -25,7 +25,7 @@ kramdown:
 ### Author Info ###
 author:
   name              : Raj Garkhedkar
-  image             : https://avatars.githubusercontent.com/u/40876642?v=4
+  image             : https://raw.githubusercontent.com/rajgark/rajgark.github.io/main/assets/Raj_COLSA.jpg
 # behance           : your_username
 # dribbble          : your_username
   email             : rajgark13@gmail.com
