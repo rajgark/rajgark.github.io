@@ -43,7 +43,7 @@ I tried to get good bokeh with the pinecone but it's tough because I'm using a 5
 
 {% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVXBfavUDd4zKslq3PKXxqjaMBFJuZ7HM8IxpU006WCeUMnLgq8KZuTVmZylvzLRNPxEx-q9UXIPulNJ5pBLSRdowlvTyEUlDUa8quFTRUWWV2Tvc0opQtCQ9c8PU22C8Ym76n0opNT_4kmNG2DbPyE=w711-h948-no?authuser=0" caption="Drop It Like It's :fire: | 4.5 mm,  \(f\)/2.2,  1/638,  iPhone 6 Camera | October 2016" %}
 
-I think I beat Apple's stock wallpaper. Nothing much to say here, just a nice picture of water drops.
+I think I beat Apple's stock wallpaper. Nothing much to say here, just a nice picture of water drops. It's also unedited - That's the original.
 
 {% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVT399uSXjXB2HJeZPCgumJfaE3IUyKG-MV9WfniuSS9Muq1CMkrKXNPIVdUhDq1aRFi00YvNOu3wCik6HhqOQNQ0TFkruQQ9VrAVfpOKCS_JwyropBvTdurul98o4DaHyezpeYcB40QYj7jNJ64Vm3=w711-h948-no?authuser=0" caption="Dewey Decimals | 3.99 mm,  \(f\)/1.8,  1/190,  iPhone 8 Camera | June 2018" %}
 
