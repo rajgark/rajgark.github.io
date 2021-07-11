@@ -45,7 +45,7 @@ I tried to get good bokeh with the pinecone but it's tough because I'm using a 5
 
 I think I beat Apple's stock wallpaper. Nothing much to say here, just a nice picture of water drops.
 
-{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVT399uSXjXB2HJeZPCgumJfaE3IUyKG-MV9WfniuSS9Muq1CMkrKXNPIVdUhDq1aRFi00YvNOu3wCik6HhqOQNQ0TFkruQQ9VrAVfpOKCS_JwyropBvTdurul98o4DaHyezpeYcB40QYj7jNJ64Vm3=w711-h948-no?authuser=0" caption="Hydro _phobic_ Plant? | 3.99 mm,  \(f\)/1.8,  1/190,  iPhone 8 Camera | June 2018" %}
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVT399uSXjXB2HJeZPCgumJfaE3IUyKG-MV9WfniuSS9Muq1CMkrKXNPIVdUhDq1aRFi00YvNOu3wCik6HhqOQNQ0TFkruQQ9VrAVfpOKCS_JwyropBvTdurul98o4DaHyezpeYcB40QYj7jNJ64Vm3=w711-h948-no?authuser=0" caption="Dewey Decimals | 3.99 mm,  \(f\)/1.8,  1/190,  iPhone 8 Camera | June 2018" %}
 
 It rained outside our house and I noticed the raindrops aligned on the edge of the leaf, immediately lowered the exposure a bit to accentuate the glossiness of the water and clicked.
 
