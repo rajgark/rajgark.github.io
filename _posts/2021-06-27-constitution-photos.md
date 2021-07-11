@@ -24,7 +24,7 @@ There's pretty much been two things that have been a constant in my life since I
 Fast forward a couple years and we moved to Illinois, living in an apartment complex, where one evening I took our Sony CyberShot outside. I saw a spider web on a lamppost and I took a picture of it. I went inside to show my dad, who told me it was better than any photo he's ever captured. He submitted to the company he worked for, unbeknownst to me, for consideration to be published in their internal newsletter. They selected it and it circulated within the company. I was happy, I wish there was a way to find that picture/newsletter...
 <br>
 
-Fast forward a couple years(or cameras - CyberShots, a Sony WX350 and a Nikon DSLR) later... brings me to my present day camera and lens of choice above. Throughout the years I've retained this hobby and it's slowly becoming a prominent part of my life again. I've gone back through all of our hard drives and I now have a collection of photos from 2005 onwards spanning around 1 TB. These are the ones I've taken...  
+Fast forward a couple years(or cameras - CyberShots(DSC-RX100, DSC-S90), a Sony WX350 and a Nikon D40X) later... brings me to my present day camera and lens of choice above. Throughout the years I've retained this hobby and it's slowly becoming a prominent part of my life again. I've gone back through all of our hard drives and I now have a collection of photos from 2005 onwards spanning around 1 TB. These are the ones I've taken...  
 <br>
 <br>
 {% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLUmaMACZO-nddguaj4w_bj_vF6M34ctUfVBDqEXJOxnNfJhfUMysuLapNCubQVB7qRArTFX5yICD74mjOIMHn7mR5n6DHU5sbRo1nTmPKsjrph1NKNok07rRv5PVYBxcbvOOuMnZFGipIrW8KvEjLJT=w1314-h876-no?authuser=0" caption="Lone Warrior | 210 mm,  \(f\)/6.3,  1/400,  ILCE-6000, AP | April 2021" %}
@@ -65,7 +65,7 @@ My brother at a strawberry picking thing. The original was heavily overexposed..
 
 Gulf of Mexico taken at Galveston. The original is pretty much the same, this one has a slightly lower exposure gradient on the bottom to bring out the crisp central waves and I'm experimenting with vignette and accentuating sunlight in images with little sunlight.
 
-{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLXcyAqwMX6SK92yPJG-Kp-QSbbFZMbeyhbv17ktJYEqOp--6NCpDfpNgveOfJyca5BtrRd_1YjV0P5CvYA2qEyspf1wWwC6DSiRzgmnJMX5BH5zJWnxGEi_ZosOcwNfL0sScpiSJNS1p6IsZH4sCu1o=w861-h646-no?authuser=0" caption="A Visionary | 6 mm,  \(f\)/2.8,  1/250,  iPhone 8 Camera | September 2006" %}
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLXcyAqwMX6SK92yPJG-Kp-QSbbFZMbeyhbv17ktJYEqOp--6NCpDfpNgveOfJyca5BtrRd_1YjV0P5CvYA2qEyspf1wWwC6DSiRzgmnJMX5BH5zJWnxGEi_ZosOcwNfL0sScpiSJNS1p6IsZH4sCu1o=w861-h646-no?authuser=0" caption="A Visionary | 6 mm,  \(f\)/2.8,  1/250,  Sony DSC-S90 | September 2006" %}
 
 I must have been 7 at this time in Mysore, India... I remember we went to this resort along with my dad's coworkers family. I took this on a Sony DSC-S90 Cybershot, probably the first camera that I became super familiar with - experimenting with all the settings and seeing how they affected the shot.  
 
