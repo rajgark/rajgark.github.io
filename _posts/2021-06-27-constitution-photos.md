@@ -7,7 +7,8 @@ description: Photos I've taken from places I've been. Last updated July 10th 202
 comments: true
 mathjax: true
 ---
-
+<br>
+_Google Drive photo hosting & compression kind of distorts the sharpness of the photos. If anyone knows .RAW or high quality .JPEG hosting sites that do not compress images, please let me know. The .RAW originals are not distorted at all._ 
 <br>
 #### Gear & Post-processing
 1. Sony $$\alpha$$6000 (ILCE-6000)
@@ -49,7 +50,7 @@ I think I beat Apple's stock wallpaper. Nothing much to say here, just a nice pi
 
 It rained outside our house and I noticed the raindrops aligned on the edge of the leaf, immediately lowered the exposure a bit to accentuate the glossiness of the water and clicked.
 
-{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLWEsHDyk6aexSLzS1EYp3GBRlqT1muwUdoG_BCf93PCJuGdtMVo-Ofm1CuoeudL5Q39TYVmegArjIQW4tU8Ro9F9l7BG-hqECVKrUxJzOl4mNvc_QDZRbYCFCCp3S8-bdRM9Yiqr5EmVHNpiOqDvtkh=w861-h485-no?authuser=0" caption="Holy :cow: | 4.2 mm,  \(f\)/1.6,  1/121,  iPhone 12 Pro Camera | March 2021" %}
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLWEsHDyk6aexSLzS1EYp3GBRlqT1muwUdoG_BCf93PCJuGdtMVo-Ofm1CuoeudL5Q39TYVmegArjIQW4tU8Ro9F9l7BG-hqECVKrUxJzOl4mNvc_QDZRbYCFCCp3S8-bdRM9Yiqr5EmVHNpiOqDvtkh=w861-h485-no?authuser=0" caption=":cow: | 4.2 mm,  \(f\)/1.6,  1/121,  iPhone 12 Pro Camera | March 2021" %}
 
 My girlfriend and I occasionally went to farms to purchase fresh local produce/meats, where once we saw this curious (and stinky) fellow.
 
@@ -65,7 +66,7 @@ My brother at a strawberry picking thing. The original was heavily overexposed..
 
 Gulf of Mexico taken at Galveston. The original is pretty much the same, this one has a slightly lower exposure gradient on the bottom to bring out the crisp central waves and I'm experimenting with vignette and accentuating sunlight in images with little sunlight.
 
-{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLXcyAqwMX6SK92yPJG-Kp-QSbbFZMbeyhbv17ktJYEqOp--6NCpDfpNgveOfJyca5BtrRd_1YjV0P5CvYA2qEyspf1wWwC6DSiRzgmnJMX5BH5zJWnxGEi_ZosOcwNfL0sScpiSJNS1p6IsZH4sCu1o=w861-h646-no?authuser=0" caption="A Visionary | 6 mm,  \(f\)/2.8,  1/250,  Sony DSC-S90 | September 2006" %}
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLXcyAqwMX6SK92yPJG-Kp-QSbbFZMbeyhbv17ktJYEqOp--6NCpDfpNgveOfJyca5BtrRd_1YjV0P5CvYA2qEyspf1wWwC6DSiRzgmnJMX5BH5zJWnxGEi_ZosOcwNfL0sScpiSJNS1p6IsZH4sCu1o=w861-h646-no?authuser=0" caption="A Quack Job | 6 mm,  \(f\)/2.8,  1/250,  Sony DSC-S90 | September 2006" %}
 
 I must have been 7 at this time in Mysore, India... I remember we went to this resort along with my dad's coworkers family. I took this on a Sony DSC-S90 Cybershot, probably the first camera that I became super familiar with - experimenting with all the settings and seeing how they affected the shot.  
 
