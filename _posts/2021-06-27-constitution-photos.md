@@ -8,7 +8,7 @@ comments: true
 mathjax: true
 ---
 <br>
-_Google Drive photo hosting & compression kind of distorts the sharpness of the photos. If anyone knows .RAW or high quality .JPEG hosting sites that do not compress images, please let me know. The .RAW originals are not distorted at all._ 
+_Google photo hosting & compression kind of distorts the sharpness of the photos. If anyone knows .RAW or high quality .JPEG hosting sites that do not compress images, please let me know. The .RAW originals are not distorted at all._
 <br>
 #### Gear & Post-processing
 1. Sony $$\alpha$$6000 (ILCE-6000)
@@ -46,6 +46,10 @@ I tried to get good bokeh with the pinecone but it's tough because I'm using a 5
 
 I think I beat Apple's stock wallpaper. Nothing much to say here, just a nice picture of water drops. It's also unedited - That's the original.
 
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLWsCwwNmdVLKX8kt3S8EkPSROEhBOzbQ4qxRKvsMuUi5uFS8XD_I9UyHzPSxcs3406h_WgLodZ7QOZ9DDm6vVULyocxhmlFee3FQN_rQ74fdqFNatinlkVZS-j38fQKDuGTUW433T4WJj_6j4ekt5pr=w1422-h948-no?authuser=0" caption="Milky Falls| 55 mm,  \(f\)/22,  1/3,  Sony ILCE-6000 | July 2021" %}
+
+AAAAARGH :angry: Google's photo compression RUINS the sharpness of the photo. The original is crisp with the water looking super silky. I decreased the shutter speed to 1/3 and stood super still as it captured the moving water with this cascading milky effect. Due to the shutter speed, the photo was heavily overexposed where sunlight was prominent, so I applied a brush mask over the water to reduce the exposure from the water & accentuate the vibrance of the foliage. Guck Foogle. 
+
 {% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVT399uSXjXB2HJeZPCgumJfaE3IUyKG-MV9WfniuSS9Muq1CMkrKXNPIVdUhDq1aRFi00YvNOu3wCik6HhqOQNQ0TFkruQQ9VrAVfpOKCS_JwyropBvTdurul98o4DaHyezpeYcB40QYj7jNJ64Vm3=w711-h948-no?authuser=0" caption="Dewey Decimals | 3.99 mm,  \(f\)/1.8,  1/190,  iPhone 8 Camera | June 2018" %}
 
 It rained outside our house and I noticed the raindrops aligned on the edge of the leaf, immediately lowered the exposure a bit to accentuate the glossiness of the water and clicked.
@@ -54,9 +58,17 @@ It rained outside our house and I noticed the raindrops aligned on the edge of t
 
 My girlfriend and I occasionally went to farms to purchase fresh local produce/meats, where once we saw this curious (and stinky) fellow.
 
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLUIp6Zno7I-tFBXHRwvXc95yjB95CgqxY7pFJPfyimGQqKaAhTrjpJBJWgBhI1EIWyEmlnPYg_G0uBZHvHOAyL42Bdx_7TGs2Pq7A1qOQLMeIXtEr6cdlAtVGfC41mTRAiF-OxR4QfQxNRKfmKmaVry=w1422-h948-no?authuser=0" caption=":dragon: fly  | 203 mm,  \(f\)/6.3,  1/320,  Sony ILCE-6000 | July 2021" %}
+
+Dragonfly flew right by and landed on the staircase at Tallulah Gorge State Park Hurricane Falls trail in Georgia. A brush mask over the dragonfly allowed me to increase the exposure a tiny bit & accentuate the shadows/highlights which hels bring out the colors on its body.
+
 {% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVRHKeSPDf6yMpOccblZanxhCGbyTFsNhtpJleEPzNKDXehEohi3qHiXauV-9iXQpyfMoDOdJdhrC-8SrQrmxY4sGmoAibpq9mVI4rmfotb6LKhjJi8PyZyimsCtQI8RiKYg8CG1D8UlNBrdxexK-aW=w711-h948-no?authuser=0" caption="Wrigley Building | 4.25 mm,  \(f\)/1.7,  1/6224,  Samsung Galaxy 8 Camera | February 2018" %}
 
-I was waiting for a bus on my way to school. Wrigley building looked cool, just lowered the exposure to make it look 'antique'
+I was waiting for a bus on my way to school. Wrigley building looked cool, just lowered the exposure to make it look 'antique'.
+
+{% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVB9IwBrVos-eCImHTzQqsIfaDEwzk7uf0HsSXjU7G1NCyMHZwXjyu6ZDbwUMoskexjvPShZ38jM3sVaDl9E7kR3XTkMHjyvODAwF1TTe5_yeAVRBNvJn5rzHvi-mz3zB3K9on9LUH7JWqDoFeo_txk=w1422-h948-no?authuser=0" caption="Buttery Boy  | 199 mm,  \(f\)/10,  1/320,  Sony ILCE-6000 | July 2021" %}
+
+This guy landed right in front of us at the bottom of the hurricane falls trail. A brush mask over the butterfly allowed me to lower the exposure a tiny bit and increase the contrast bringing out the vibrance of the colors instead of the brightness. A mask applied everywhere except the butterfly let me bring out the details in the rocks & 'dethrone' it a bit centering the attention on the butterfly.
 
 {% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLU5pVam4nA5Pdthg1wEK07_ccKmXhgrklyXKdDbx0vTQdtvnR6ZH0SOnmVTZd6tI8hJHt69RU7dW9tE3yvchEB85THAp9aEgXk13S0gH6zroVThRJa85MRifTL7iibLK8y4_4YSKO7NuKQQ3qFs3Wro=w861-h574-no?authuser=0" caption="Berry Boi | 10.4 mm,  \(f\)/5.6,  1/800,  Sony DSC-RX100 | June 2016" %}
 
