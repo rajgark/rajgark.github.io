@@ -3,7 +3,7 @@ title: Photo Portfolio
 tags: [Photography, Luminar 4 Post-Processing]
 style: fill
 color: info
-description: Photos I've taken from places I've been. Last updated July 10th 2021.
+description: Photos I've taken from places I've been. Last updated July 23th 2021.
 comments: true
 mathjax: true
 ---
@@ -48,7 +48,7 @@ I think I beat Apple's stock wallpaper. Nothing much to say here, just a nice pi
 
 {% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLWsCwwNmdVLKX8kt3S8EkPSROEhBOzbQ4qxRKvsMuUi5uFS8XD_I9UyHzPSxcs3406h_WgLodZ7QOZ9DDm6vVULyocxhmlFee3FQN_rQ74fdqFNatinlkVZS-j38fQKDuGTUW433T4WJj_6j4ekt5pr=w1422-h948-no?authuser=0" caption="Milky Falls| 55 mm,  \(f\)/22,  1/3,  Sony ILCE-6000 | July 2021" %}
 
-AAAAARGH :angry: Google's photo compression RUINS the sharpness of the photo. The original is crisp with the water looking super silky. I decreased the shutter speed to 1/3 and stood super still as it captured the moving water with this cascading milky effect. Due to the shutter speed, the photo was heavily overexposed where sunlight was prominent, so I applied a brush mask over the water to reduce the exposure from the water & accentuate the vibrance of the foliage. Guck Foogle. 
+AAAAARGH :angry: Google's photo compression RUINS the sharpness of the photo. The original is crisp with the water looking super silky. I decreased the shutter speed to 1/3 and stood super still as it captured the moving water with this cascading milky effect. Due to the shutter speed, the photo was heavily overexposed where sunlight was prominent, so I applied a brush mask over the water to reduce the exposure from the water & accentuate the vibrance of the foliage. Guck Foogle.
 
 {% include elements/figure.html image="https://lh3.googleusercontent.com/pw/AM-JKLVT399uSXjXB2HJeZPCgumJfaE3IUyKG-MV9WfniuSS9Muq1CMkrKXNPIVdUhDq1aRFi00YvNOu3wCik6HhqOQNQ0TFkruQQ9VrAVfpOKCS_JwyropBvTdurul98o4DaHyezpeYcB40QYj7jNJ64Vm3=w711-h948-no?authuser=0" caption="Dewey Decimals | 3.99 mm,  \(f\)/1.8,  1/190,  iPhone 8 Camera | June 2018" %}
 
