@@ -22,7 +22,7 @@ I'm graduating in December of 2021 and looking for full time roles in R&D, data 
 
 I love watching/playing soccer & Formula 1, taking pictures (check out my photography section), and just generally being outside. I also love cars and have taken 4 years of auto-shop classes in high school. I am hoping to have a fully decked out garage when I'm older with ambitions to be a weekend mechanic in my neighborhood (after getting some official certification, of course). People can come drop off their car or hang out and watch me do minor maintenance work.
 
-This website is meant to be a showcase of my projects & things, almost like an extension of myself. I don't have much of a social media presence but I need some sort of central established source to pour my academic, professional, and leisurely thoughts into; A source for recruiters/HR officials/hiring managers to get to know me better; A place to post some thoughts, projects, and cool pictures I've taken.
+This website is meant to be a showcase of my projects & things. I don't have much of a social media presence but having some sort of central established source to pour my academic, professional, and leisurely thoughts into helps. Also, a place to post some thoughts, projects, and cool pictures I've taken.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
