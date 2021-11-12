@@ -2,7 +2,7 @@
 title: The Physics Behind Echocardiograms
 tags: [Physics Behind, Sound, BioPhysics]
 style: fill
-color: secondary
+color: lavender
 comments: true
 description: A Dive Into Magnetic Resonance Imaging Physics
 mathjax: true
