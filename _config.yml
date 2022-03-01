@@ -1,8 +1,7 @@
 ### Site Settings ###
 title               : Raj Garkhedkar
 description         : >-
-                      Aspiring trophy husband.
-                      Currently in the SciML space doing simulations & training models for sparse identification of nonlinear dynamical systems through data driven model discovery.
+                      Aspiring trophy husband & currently a data scientist.
 baseurl             : ""
 repository          : rajgark/rajgark.github.io
 remote_theme        : YoussefRaafatNasry/portfolYOU
