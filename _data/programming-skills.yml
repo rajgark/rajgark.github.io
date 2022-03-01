@@ -1,5 +1,5 @@
 - name: Python
-  percentage: 80
+  percentage: 90
   color: danger
 
 - name: Julia
