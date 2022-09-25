@@ -1,8 +1,10 @@
 - title: Data Scientist @ COLSA Corporation | Huntsville, AL
   location: COLSA Corporation, Huntsville, AL
   from: January 2022
-  description: Scientific Machine Learning - rigorous and mission ready AI systems. DevOps and DevSecOps work by
-               integrating Docker, Kubernetes & Prometheus as well as other CI/CT/CD frameworks tailored to our specifc needs.
+  description: Scientific Machine Learning - rigorous and mission ready AI systems for the Bounty Hunter Program. Built API's that interfaced with USRP SDR's and stream data to ML
+models.  Built containers that use Kafka & MongoDB to stream & store data from an SDR to a database. Built containers that utilize REST APIs to interact with a front end
+that establish stream connections with hardware. Built microservice containers that allow for airgapped & restricted
+environment ready ML inferencing on data feeds. Built automated testing frameworks for use in CI/CT/CD pipelines and utilizing Docker Swarm & Kubernetes for container orchestration. Built various models for classification, excision, & segmentation of complex data.
 
 - title: Machine Learning Engineer Intern @ COLSA Corporation | Huntsville, AL
   location: COLSA Corporation, Huntsville AL
