@@ -2,8 +2,8 @@
   percentage: 60
   color: info
 
-- name: MATLAB
-  percentage: 50
+- name: Docker & Kubernetes
+  percentage: 70
   color: success
 
 - name: Igor Pro
@@ -18,6 +18,6 @@
   percentage: 70
   color: warning
 
-- name: Tableau & MS Office Suite
+- name: Gitlab, Prometheus - MLOps & DevSecOps
   percentage: 90
   color: success
